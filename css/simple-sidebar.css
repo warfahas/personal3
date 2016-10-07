@@ -99,6 +99,11 @@
     color: #fff;
     background: none;
 }
+hr{ /*Changed settings for horizontal rule*/
+ width: 100%;
+ height: 2px;
+ background: #f00;
+}
 
 @media(min-width:768px) {/*Responsiveness*/
     #wrapper {
